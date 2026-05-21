@@ -537,26 +537,3 @@ Overlay network
 ```
 
 ---
-
-## Notes
-
-This repository is for learning Docker step by step.
-
-Some note files are currently empty in the uploaded project:
-
-```text
-day1/note.md
-day3/note.md
-day4/note.md
-day5/note.md
-day6/note.md
-```
-
-The main completed lab contents are currently available in:
-
-```text
-day2/lab.md
-day4/python-docker-app/
-day5/compose-app/
-day7/docker-swarm-lab.md
-```
