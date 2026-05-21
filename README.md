@@ -11,13 +11,13 @@ This repository contains Docker learning materials and hands-on labs from the Do
 ```text
 ├── README.md
 ├── day-1
-│   └── day-1.md
+│   └── note.md
 ├── day-2
-│   └── day-2.md
+│   └── note.md
 ├── day-3
-│   └── day-3.md
+│   └── note.md
 ├── day-4
-│   ├── day-4.md
+│   ├── note.md
 │   └── python-docker-app
 │       ├── Dockerfile
 │       ├── app.py
@@ -33,11 +33,11 @@ This repository contains Docker learning materials and hands-on labs from the Do
 │   │   │   └── init
 │   │   │       └── 01-init.sql
 │   │   └── docker-compose.yml
-│   └── day-5.md
+│   └── note.md
 ├── day-6
-│   └── day-6.md
+│   └── note.md
 └── day-7
-    └── day-7.md
+    └── note.md
 ```
 
 ---
