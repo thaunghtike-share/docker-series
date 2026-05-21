@@ -9,37 +9,35 @@ This repository contains Docker learning materials and hands-on labs from the Do
 ## Repository Structure
 
 ```text
-docker-series/
-├── day1/
-│   └── note.md
-├── day2/
-│   └── lab.md
-├── day3/
-│   └── note.md
-├── day4/
-│   ├── note.md
-│   └── python-docker-app/
-│       ├── app.py
+├── README.md
+├── day-1
+│   └── day-1.md
+├── day-2
+│   └── day-2.md
+├── day-3
+│   └── day-3.md
+├── day-4
+│   ├── day-4.md
+│   └── python-docker-app
 │       ├── Dockerfile
-│       ├── requirements.txt
-│       └── .gitignore
-├── day5/
-│   ├── note.md
-│   └── compose-app/
-│       ├── backend/
-│       │   ├── app.py
-│       │   ├── Dockerfile
-│       │   └── requirements.txt
-│       ├── db/
-│       │   └── init/
-│       │       └── 01-init.sql
-│       ├── .env
-│       ├── docker-compose.yml
-│       └── README.md
-├── day6/
-│   └── note.md
-└── day7/
-    └── docker-swarm-lab.md
+│       ├── app.py
+│       └── requirements.txt
+├── day-5
+│   ├── compose-app
+│   │   ├── README.md
+│   │   ├── backend
+│   │   │   ├── Dockerfile
+│   │   │   ├── app.py
+│   │   │   └── requirements.txt
+│   │   ├── db
+│   │   │   └── init
+│   │   │       └── 01-init.sql
+│   │   └── docker-compose.yml
+│   └── day-5.md
+├── day-6
+│   └── day-6.md
+└── day-7
+    └── day-7.md
 ```
 
 ---
