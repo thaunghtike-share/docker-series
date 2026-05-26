@@ -17,28 +17,22 @@ docker compose up -d --build
 
 ## Test
 
-Frontend:
-
-```text
-http://localhost:3000
-```
-
 Backend:
 
 ```text
-http://localhost:5000
+curl http://localhost:5001
 ```
 
 Health:
 
 ```text
-http://localhost:5000/health
+curl http://localhost:5001/health
 ```
 
 MySQL + Redis test:
 
 ```text
-http://localhost:5000/visits
+curl http://localhost:5001/visits
 ```
 
 ## Useful Commands
